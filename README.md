@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=7a8aff&height=200&text=subin%20Jo👋&fontAlign=70&rotate=13&fontAlignY=25&desc=subin1848's%20GitHub&descAlign=70&animation=fadeIn)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=7a8aff&height=200&text=subin%20Jo👋&fontAlign=70&fontColor=FFFFFF&rotate=13&fontAlignY=25&desc=subin1848's%20GitHub&descAlign=70&animation=fadeIn)
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
