@@ -35,4 +35,5 @@
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
         </div> 
     </div>
-    
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&rotate=13&height=200&color=7a8aff&animation=fadeIn)
