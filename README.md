@@ -5,23 +5,40 @@
 </div>
     <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>      
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
-        <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks 🛠️ </h2> <br> 
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
         </div>
     </div>
     <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>     
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2> <br> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me 🧑‍💻 </h2> <br> 
         <div align= "center"> <a href=https://www.instagram.com/subin_732/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/subin_732/"> </a>
              <a href=https://velog.io/@subin0273/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@subin0273/posts"> </a>
         </div>  <br> 
@@ -29,7 +46,7 @@
     </div>
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2> 
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats 🏅 </h2> 
         <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=subin1848&bg_color=180,00000000,00000000&title_color=7a8aff&text_color=7a8aff"
          />  
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
