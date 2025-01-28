@@ -1,7 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=7a8aff&height=200&text=subin%20Jo👋&fontAlign=70&fontColor=FFFFFF&rotate=13&fontAlignY=25&desc=subin1848's%20GitHub&descAlign=70&animation=fadeIn)
 
-<div align= "center">  
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin1848&count_bg=%237A8AFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>    
+<div align= "center">   
 </div>
     <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>      
@@ -39,19 +38,41 @@
     <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>     
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me 🧑‍💻 </h2> <br> 
-        <div align= "center"> <a href=https://www.instagram.com/subin_732/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/subin_732/"> </a>
-             <a href=https://velog.io/@subin0273/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@subin0273/posts"> </a>
+        <div align= "center"> 
+                <a href=https://www.instagram.com/subin_732> 
+                        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/subin_732"> 
+                </a>
+                <a href=https://velog.io/@subin0273/posts> 
+                        <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@subin0273/posts"> 
+                </a>
         </div>  <br> 
         <div align= "center">  </div> 
     </div>
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats 🏅 </h2> 
-        <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=subin1848&bg_color=180,00000000,00000000&title_color=7a8aff&text_color=7a8aff"
-         />  
-        <div> <a href="https://github.com/subin1848"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin1848&layout=compact&theme=nord&hide_border=true" /></a>         
-        </div>
-        </div> 
-    </div>
+    <div>
+            <a href="https://github.com/subin1848/github-readme-stats">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin1848&layout=donut&show_icons=true&theme=transparent&exclude_repo=Face-Transfer-Application" width=34% />
+            </a>   
+        <a href="https://github.com/subin1848/github-readme-stats">
+                  <img src="https://github-readme-stats.vercel.app/api?username=subin1848&show_icons=true&theme=transparent&count_private=true" width=50% />
+        </a>    
+     </div>        
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&rotate=13&height=200&color=7a8aff&animation=fadeIn)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img 
+          src="https://render.gitanimals.org/farms/subin1848?" 
+          width="600" 
+          height="350"
+  />
+</a>
+
+<br>
+<p align="right">
+  <a href="https://github.com/subin1848/hit-counter">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin1848%2Fhit-counter&count_bg=%237a8aff&title_bg=%237a8aff&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="Hits">
+  </a>
+</p>
