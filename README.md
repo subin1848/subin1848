@@ -53,10 +53,10 @@
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats 🏅 </h2> 
     <div>
             <a href="https://github.com/subin1848/github-readme-stats">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin1848&layout=donut&show_icons=true&theme=transparent&exclude_repo=Face-Transfer-Application" width=34% />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin1848&layout=donut&show_icons=true&theme=transparent&exclude_repo=Face-Transfer-Application" width=38% />
             </a>   
         <a href="https://github.com/subin1848/github-readme-stats">
-                  <img src="https://github-readme-stats.vercel.app/api?username=subin1848&show_icons=true&theme=transparent&count_private=true" width=50% />
+                  <img src="https://github-readme-stats.vercel.app/api?username=subin1848&show_icons=true&theme=transparent&count_private=true" width=56% />
         </a>    
      </div>        
 
@@ -65,7 +65,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img 
           src="https://render.gitanimals.org/farms/subin1848?" 
-          width="600" 
+          width="800" 
           height="350"
   />
 </a>
