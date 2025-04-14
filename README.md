@@ -60,19 +60,12 @@
         </a>    
      </div>        
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&rotate=13&height=200&color=7a8aff&animation=fadeIn)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img 
-          src="https://render.gitanimals.org/farms/subin1848?" 
-          width="800" 
-          height="350"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=subin1848&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/subin1848"
+      width="850"
+      height="345"
+    />
 </a>
 
 <br>
-<p align="right">
-  <a href="https://github.com/subin1848/hit-counter">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin1848%2Fhit-counter&count_bg=%237a8aff&title_bg=%237a8aff&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="Hits">
-  </a>
-</p>
